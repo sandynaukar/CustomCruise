@@ -1,0 +1,34 @@
+name: sandycustom
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  share_plus: ^4.0.10
+  image_picker: ^0.8.4+4
+  video_player: ^2.6.1
+  camera: ^0.11.0+2
+  cupertino_icons: ^1.0.8
+  google_fonts: ^4.0.0
+  flutter_animate: ^4.1.1+1
+  flutter_map: ^5.0.0
+  latlong2: ^0.9.0
+  cached_network_image: ^3.2.3
+  shimmer: ^2.0.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/WELCOME_VIDEO.mp4
+    - assets/images/home.gif
