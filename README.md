@@ -83,7 +83,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 MIT License
 
-Copyright (c) [2024] [Abishek J]
+Copyright (c) [2024] [Santhosh Sharan B]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
