@@ -104,7 +104,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ## Contact
 
-[J Abishek] - [connectabishek@gmail.com]
-[Rishon Jos Anton S]-[rishonanton@gmail.com]
+[Santhosh Sharan B] - [santhoshsharanb@gmail.com]
 
-Project Link: [https://github.com/MLAbishek/CustomCruise](https://github.com/MLAbishek/CustomCruise)
+Project Link: [https://github.com/sandynaukar/CustomCruise](https://github.com/sandynaukar/CustomCruise)
